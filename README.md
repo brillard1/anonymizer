@@ -15,4 +15,4 @@ For execution of financial anonymization models, refer to [financial anonymizati
 ## Submission
 ---
 * [Presentation](https://docs.google.com/presentation/d/143hVW_lmIDnzAPeTl3T-o6s_AGmR_HnadeeNMMSwAgI/edit?usp=sharing)
-* [Demo Video]()
+* [Demo Video](https://drive.google.com/file/d/1HARzc4ybumN-sNf8lXXIAQlgBH59Xjzi/view?usp=sharing)
