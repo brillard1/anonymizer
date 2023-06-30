@@ -1,0 +1,4 @@
+i. linked_data:
+	1. company_tax.csv: tax and other comapny info 
+	2. offices.csv: number of offices of different companies; ( UP)
+ii. up_housing.csv:
