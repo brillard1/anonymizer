@@ -2,6 +2,8 @@
 ## Introduction
 This is the submission by the team INIT 2 for the anonymizer conducted by Government of Bengal.
 
+Full Disclosure. A lot of these implementations were abstracted and taken from or built upon our Computer Vision and Cyber Security Assignments.
+
 ## Execution
 ---
 ### Financial Documents anonymization
